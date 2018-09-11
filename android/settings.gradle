@@ -1,0 +1,3 @@
+rootProject.name = 'TechRedux'
+
+include ':app'
